@@ -20,7 +20,7 @@ __pycache__/
 datasets/
 data/
 logs/
-.ipynb_checkpoint/
+.ipynb_checkpoints/
 
 # 📊 Arquivos do Databricks
 *.dbc
